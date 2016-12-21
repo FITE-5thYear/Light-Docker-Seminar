@@ -1,0 +1,20 @@
+https://academy.hsoub.com/devops/cloud-computing/docker/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-docker-r3/
+
+
+https://academy.hsoub.com/devops/cloud-computing/docker/%D9%85%D9%82%D8%AF%D9%91%D9%85%D8%A9-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%8F%D9%83%D9%88%D9%91%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%8F%D8%B4%D8%AA%D8%B1%D9%8E%D9%83%D8%A9-%D9%81%D9%8A-docker-r21/
+
+
+http://catazinelive.net/2015/08/docker-containers/
+
+http://www.vmman.me/container-technology-docker/
+
+
+
+
+English ref:
+https://www.ctl.io/developers/blog/post/what-is-docker-and-when-to-use-it/
+
+
+
+
+
